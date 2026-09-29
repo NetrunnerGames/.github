@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="180" align="center" valign="middle">
-      <img src="logo.jpg" width="160" height="160" style="border-radius: 20px;" alt="NetrunnerGames Logo" />
+    <td width="220" align="center" valign="middle">
+      <img src="logo.png" width="210" height="210" alt="NetrunnerGames Logo" />
     </td>
     <td valign="middle">
       <h1>NetrunnerGames</h1>
