@@ -27,6 +27,6 @@ NetrunnerGames develops and maintains open-source client utilities, native DLL h
 
 ## Contact & Resources
 
-* **GitHub Repositories**: [github.com/NetrunnerGames](https://github.com/NetrunnerGames)
+* **GitHub Repositories**: **[NetrunnerGames](https://github.com/NetrunnerGames/)**
 * **Issues & Support**: Submit bug reports and feature requests on the relevant repository's issue tracker, or join our Discord server for support.
 * **License**: Software in this organization is released under the [MIT License](LICENSE).
