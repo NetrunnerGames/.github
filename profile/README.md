@@ -22,7 +22,6 @@ NetrunnerGames develops and maintains open-source client utilities, native DLL h
 
 * **[DataJackUI](https://github.com/NetrunnerGames/DataJackUI)** — Modern desktop interface for Steam manifest management, native hook administration, and DNS-over-HTTPS resolution.
 * **[Jack-in](https://github.com/NetrunnerGames/Jack-in)** — Steam CEF storefront plugin enabling manifest acquisition directly inside the Steam client interface.
-* **IceBreaker** — Native DLL loader framework (`version.dll`) and payload redirection handler.
 * **Custom Provider** — Manifest indexing and fix repository services supported via custom providers.
 
 ## Contact & Resources
