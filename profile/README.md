@@ -8,7 +8,7 @@
       <p>Open-source desktop software, native client hooks, and Steam plugin utilities.</p>
       <a href="https://github.com/NetrunnerGames/DataJackUI"><img src="https://img.shields.io/badge/DataJackUI-v2.00.0-090a0f?style=for-the-badge&labelColor=090a0f&logo=github&logoColor=00ffff" height="34" alt="DataJackUI" /></a>
       <a href="https://github.com/NetrunnerGames/Jack-in"><img src="https://img.shields.io/badge/Jack--in-v1.0-090a0f?style=for-the-badge&labelColor=090a0f&logo=steam&logoColor=00adf0" height="34" alt="Jack-in Plugin" /></a>
-      <a href="https://discord.gg/YJbnuEd3Dv"><img src="https://img.shields.io/badge/Discord-Join_Server-090a0f?style=for-the-badge&labelColor=090a0f&logo=discord&logoColor=5865F2" height="34" alt="Discord" /></a>
+      <a href="https://discord.gg/SadzcAwdjW"><img src="https://img.shields.io/badge/Discord-Join_Server-090a0f?style=for-the-badge&labelColor=090a0f&logo=discord&logoColor=5865F2" height="34" alt="Discord" /></a>
       <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-090a0f?style=for-the-badge&labelColor=090a0f&logo=open-source-initiative&logoColor=3da639" height="34" alt="License" /></a>
     </td>
   </tr>
